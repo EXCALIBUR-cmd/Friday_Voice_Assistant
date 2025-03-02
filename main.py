@@ -33,12 +33,12 @@ SPOTIFY_REDIRECT_URI = "http://localhost:8888/callback"
 
 # Contacts dictionary
 CONTACTS = {
-    "nilesh": "+91(Your Number with country code)",
+    "name": "+91(Your Number with country code)",
     "neil": "+91(Your Number with country code)",
     "niles": "+91(Your Number with country code)",
     "nielsen": "+91(Your Number with country code)",
-    "mani": "+91(Your Number with country code)",
-    "money": "+91(Your Number with country code)",
+    "mom": "+91(Your Number with country code)",
+    "brother": "+91(Your Number with country code)",
     "many": "+91(Your Number with country code)",
     "dad": "+91(Your Number with country code)",
     "john": "+91(Your Number with country code)"
